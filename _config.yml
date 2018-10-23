@@ -77,7 +77,7 @@ disqus_username: taotao033
 ba_track_id: 2e5612cf210737cd98157c9f73493107
 
 # Google Analytics
-ga_track_id: 'GTM-NJ3TFHZ'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-127963131-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 

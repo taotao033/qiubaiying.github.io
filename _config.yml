@@ -2,9 +2,9 @@
 title: BY Blog
 SEOTitle: 涛涛的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: wulitaotao033@gmail.com
+email: tao.zhang.nlp@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 涛涛的博客, taotao, wulitaotao, zhangtao, 张涛，iOS, Apple, iPhone"
+keyword: "BY, BY Blog, 涛涛的博客, taotao, zhangtao, 张涛，iOS, Apple, iPhone"
 url: "https://taotao033.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/taotao033/taotao033.github.io.git" # you code repository
